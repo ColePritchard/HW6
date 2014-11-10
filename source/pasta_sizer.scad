@@ -1,0 +1,1 @@
+linear_extrude(height=3) import("pasta_sizer.dxf");
